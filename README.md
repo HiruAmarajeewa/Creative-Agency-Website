@@ -1,5 +1,8 @@
 
-# 💻 Creative Agency Website
+# 📚 Creative Agency Website
+
+![image](https://github.com/HiruAmarajeewa/Creative-Agency-Website/assets/142741031/23e1e430-3818-4799-8ca1-0e20916b1a34)
+
 
 Welcome to the Creative Agency GitHub repository! This repository contains the source code for a modern and stylish Creative Agency website. 🎨✨
 
