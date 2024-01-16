@@ -21,6 +21,7 @@ This web application showcases the capabilities of a creative agency, offering s
 
 - HTML
 - CSS
+- bootstrap
 - JavaScript
 
 ## 🚀 How to Use 
