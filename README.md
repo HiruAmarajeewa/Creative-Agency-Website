@@ -30,6 +30,8 @@ This web application showcases the capabilities of a creative agency, offering s
 2. Open the HTML files in your web browser to explore the different sections of the website.
 3. Customize the content, images, and styles as needed for your own creative agency.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
 
 ## 🚀 Installation
 
